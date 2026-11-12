@@ -10,7 +10,7 @@ Build gerektirmeyen HTML, CSS ve JavaScript sitesi.
 - `products.js`: menü verisinin kayıtlı kopyası
 - `assets/`: 90 ürün fotoğrafı
 
-Gramajlar yalnızca kaynak menüde belirtilen miktarları içerir. Diğer miktarlar ve doğrulanmamış alerjenler yerine işletmeyle iletişim bilgisi gösterilir. Siparişler Yemeksepeti'ne yönlendirilir.
+Paket miktarları kaynak menüden alınmıştır. Diğer gramajlar kullanıcı isteğiyle porsiyon aralıkları olarak eklenmiştir. Alerjen listeleri ürün adı ve tipik tariften çıkarılan ön bilgilerdir; kesin içerik ve çapraz bulaşma henüz doğrulanmamıştır. İşletmenin sonradan güncelleyeceği verilerdir. Siparişler Yemeksepeti'ne yönlendirilir.
 
 Menü ve adres kaynağı: https://www.yemeksepeti.com/restaurant/lj50/kadikoy-simit
 Aktarım tarihi: 12 Kasım 2026. Menü fiyatları otomatik güncellenmez.
