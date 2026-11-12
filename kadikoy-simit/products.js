@@ -1,7 +1,6 @@
 window.MENU_DATA = {
   "source": "https://www.yemeksepeti.com/restaurant/lj50/kadikoy-simit",
   "updated": "2026-11-12",
-  "allergenReference": "https://www.food.gov.uk/business-guidance/allergen-guidance-for-food-businesses",
   "products": [
     {
       "name": "Tereyağı (20 gr.)",
@@ -12,13 +11,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/78531304.jpg",
       "image": "assets/tereyagi-20-gr.jpg",
       "description": "Tereyağı (20 gr.) · Kahvaltılıklar menüsünden.",
-      "amountEstimated": false,
       "amount": "20 g",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kaşarlı Açma",
@@ -29,15 +24,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937412.jpg",
       "image": "assets/kasarli-acma.jpg",
       "description": "Kaşarlı Açma · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–130 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ballı Tereyağlı Açma",
@@ -48,15 +37,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937413.jpg",
       "image": "assets/balli-tereyagli-acma.jpg",
       "description": "Ballı Tereyağlı Açma · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–130 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ev Poğaçası",
@@ -67,15 +50,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937414.jpg",
       "image": "assets/ev-pogacasi.jpg",
       "description": "Ev Poğaçası · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–130 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ev Yapımı Sigara Böreği",
@@ -86,15 +63,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937415.jpg",
       "image": "assets/ev-yapimi-sigara-boregi.jpg",
       "description": "Ev Yapımı Sigara Böreği · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "100–150 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Patatesli Açma",
@@ -105,15 +76,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937416.jpg",
       "image": "assets/patatesli-acma.jpg",
       "description": "Patatesli Açma · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–130 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ay Çöreği",
@@ -124,15 +89,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/4937418.jpg",
       "image": "assets/ay-coregi.jpg",
       "description": "Ay Çöreği · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ballı Tereyağlı Simit",
@@ -143,16 +102,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937419.jpg",
       "image": "assets/balli-tereyagli-simit.jpg",
       "description": "Ballı Tereyağlı Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Çekirdekli Simit",
@@ -163,16 +115,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937420.jpg",
       "image": "assets/cekirdekli-simit.jpg",
       "description": "Çekirdekli Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–120 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kakolu Fındık Kreması (Küçük)",
@@ -183,13 +128,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937421.jpg",
       "image": "assets/kakolu-findik-kremasi-kucuk.jpg",
       "description": "Kakolu Fındık Kreması (Küçük) · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "15–25 g",
-      "allergens": [
-        "Fındık"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Haşlanmış Yumurta (Adet)",
@@ -200,13 +141,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937424.jpg",
       "image": "assets/haslanmis-yumurta-adet.jpg",
       "description": "Haşlanmış Yumurta (Adet) · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "50–60 g / adet",
-      "allergens": [
-        "Yumurta"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "İtalyan Dilim Pizza",
@@ -217,15 +154,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937425.jpg",
       "image": "assets/italyan-dilim-pizza.jpg",
       "description": "İtalyan Dilim Pizza · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g / dilim",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kahvaltı Tabağı",
@@ -236,11 +167,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937426.jpg",
       "image": "assets/kahvalti-tabagi.jpg",
       "description": "Kahvaltı Tabağı · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "350–450 g / tabak",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Krem Peynir",
@@ -251,13 +180,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937429.jpg",
       "image": "assets/krem-peynir.jpg",
       "description": "Krem Peynir · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "15–25 g",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Nutellalı Simit",
@@ -268,17 +193,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937430.jpg",
       "image": "assets/nutellali-simit.jpg",
       "description": "Nutellalı Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)",
-        "Fındık"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Peynirli Açma",
@@ -289,15 +206,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937431.jpg",
       "image": "assets/peynirli-acma.jpg",
       "description": "Peynirli Açma · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–130 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Peynirli Sürme Simit",
@@ -308,16 +219,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937433.jpg",
       "image": "assets/peynirli-surme-simit.jpg",
       "description": "Peynirli Sürme Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Peynirli Zeytin Ezmeli Sürme Simit",
@@ -328,16 +232,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937434.jpg",
       "image": "assets/peynirli-zeytin-ezmeli-surme-simit.jpg",
       "description": "Peynirli Zeytin Ezmeli Sürme Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Sade Açma",
@@ -348,15 +245,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937435.jpg",
       "image": "assets/sade-acma.jpg",
       "description": "Sade Açma · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–130 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Sade Simit",
@@ -367,16 +258,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937437.jpg",
       "image": "assets/sade-simit.jpg",
       "description": "Sade Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–120 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Söğüş Tabağı",
@@ -387,11 +271,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937438.jpg",
       "image": "assets/sogus-tabagi.jpg",
       "description": "Söğüş Tabağı · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "150–200 g / tabak",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tereyağlı Çikolatalı Simit",
@@ -402,16 +284,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937439.jpg",
       "image": "assets/tereyagli-cikolatali-simit.jpg",
       "description": "Tereyağlı Çikolatalı Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tereyağlı Kaşarlı Simit",
@@ -422,16 +297,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937440.jpg",
       "image": "assets/tereyagli-kasarli-simit.jpg",
       "description": "Tereyağlı Kaşarlı Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tereyağlı Kaşarlı Sucuklu Simit",
@@ -442,16 +310,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937441.jpg",
       "image": "assets/tereyagli-kasarli-sucuklu-simit.jpg",
       "description": "Tereyağlı Kaşarlı Sucuklu Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tereyağlı Simit",
@@ -462,16 +323,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937442.jpg",
       "image": "assets/tereyagli-simit.jpg",
       "description": "Tereyağlı Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tereyağlı Zeytinli Kaşarlı Simit",
@@ -482,16 +336,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937443.jpg",
       "image": "assets/tereyagli-zeytinli-kasarli-simit.jpg",
       "description": "Tereyağlı Zeytinli Kaşarlı Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tereyağlı Zeytinli Simit",
@@ -502,16 +349,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937444.jpg",
       "image": "assets/tereyagli-zeytinli-simit.jpg",
       "description": "Tereyağlı Zeytinli Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Karper Peyniri",
@@ -522,13 +362,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937445.jpg",
       "image": "assets/karper-peyniri.jpg",
       "description": "Karper Peyniri · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "15–25 g",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Zeytin Ezmeli Simit",
@@ -539,16 +375,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937446.jpg",
       "image": "assets/zeytin-ezmeli-simit.jpg",
       "description": "Zeytin Ezmeli Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Zeytin Ezmesi (Küçük)",
@@ -559,11 +388,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937447.jpg",
       "image": "assets/zeytin-ezmesi-kucuk.jpg",
       "description": "Zeytin Ezmesi (Küçük) · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "15–25 g",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Zeytinli Açma",
@@ -574,15 +401,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937448.jpg",
       "image": "assets/zeytinli-acma.jpg",
       "description": "Zeytinli Açma · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–130 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Zeytinli Kaşarlı Açma",
@@ -593,15 +414,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937449.jpg",
       "image": "assets/zeytinli-kasarli-acma.jpg",
       "description": "Zeytinli Kaşarlı Açma · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "90–130 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kandil Simidi",
@@ -612,11 +427,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/4937427.jpg",
       "image": "assets/kandil-simidi.jpg",
       "description": "Kandil Simidi · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "15–25 g / adet",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tahinli Simit",
@@ -627,16 +440,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/50684022.jpg",
       "image": "assets/tahinli-simit.jpg",
       "description": "Tahinli Simit · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "120–180 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Sütaş Tahin Pekmez (20 gr.)",
@@ -647,14 +453,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/61164484.jpg",
       "image": "assets/sutas-tahin-pekmez-20-gr.jpg",
       "description": "Sütaş Tahin Pekmez (20 gr.) · Kahvaltılıklar menüsünden.",
-      "amountEstimated": false,
       "amount": "20 g",
-      "allergens": [
-        "Susam",
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ezine Peyniri (Dilim)",
@@ -665,13 +466,9 @@ window.MENU_DATA = {
       "imageUrl": "",
       "image": "",
       "description": "Ezine Peyniri (Dilim) · Kahvaltılıklar menüsünden.",
-      "amountEstimated": true,
-      "amount": "40–60 g / dilim",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Sütaş Taze Peynir (20 gr.)",
@@ -682,13 +479,9 @@ window.MENU_DATA = {
       "imageUrl": "",
       "image": "",
       "description": "Sütaş Taze Peynir (20 gr.) · Kahvaltılıklar menüsünden.",
-      "amountEstimated": false,
       "amount": "20 g",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Krem Peynirli Kaşarlı Simit",
@@ -699,16 +492,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/78427997.jpg",
       "image": "assets/krem-peynirli-kasarli-simit.jpg",
       "description": "Krem Peynirli Kaşarlı Simit · Simit Arası Ürünler menüsünden.",
-      "amountEstimated": true,
-      "amount": "140–190 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Krem Peynirli Simit",
@@ -719,16 +505,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/78530168.jpg",
       "image": "assets/krem-peynirli-simit.jpg",
       "description": "Krem Peynirli Simit · Simit Arası Ürünler menüsünden.",
-      "amountEstimated": true,
-      "amount": "140–190 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kaşarlı Simit Tost",
@@ -739,16 +518,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937458.jpg",
       "image": "assets/kasarli-simit-tost.jpg",
       "description": "Simit arasında kaşar peyniri. Kahvaltıda veya günün küçük molalarında sade bir klasik.",
-      "amountEstimated": true,
-      "amount": "140–190 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kaşarlı Salamlı Simit Tost",
@@ -759,16 +531,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937459.jpg",
       "image": "assets/kasarli-salamli-simit-tost.jpg",
       "description": "Kaşarlı Salamlı Simit Tost · Simit Arası Ürünler menüsünden.",
-      "amountEstimated": true,
-      "amount": "140–190 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Domatesli Krem Peynirli Simit Tost",
@@ -779,16 +544,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937460.jpg",
       "image": "assets/domatesli-krem-peynirli-simit-tost.jpg",
       "description": "Domatesli Krem Peynirli Simit Tost · Simit Arası Ürünler menüsünden.",
-      "amountEstimated": true,
-      "amount": "140–190 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Krem Peynirli & Zeytin Ezmeli & Kaşarlı Simit Tost",
@@ -799,16 +557,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937461.jpg",
       "image": "assets/krem-peynirli-zeytin-ezmeli-kasarli-simit-tost.jpg",
       "description": "Krem Peynirli & Zeytin Ezmeli & Kaşarlı Simit Tost · Simit Arası Ürünler menüsünden.",
-      "amountEstimated": true,
-      "amount": "140–190 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kaşarlı & Salamlı & Zeytin Ezmeli Tost",
@@ -819,15 +570,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937462.jpg",
       "image": "assets/kasarli-salamli-zeytin-ezmeli-tost.jpg",
       "description": "Kaşarlı & Salamlı & Zeytin Ezmeli Tost · Simit Arası Ürünler menüsünden.",
-      "amountEstimated": true,
-      "amount": "140–190 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Krem Peynirli Nutellalı Simit",
@@ -838,17 +583,9 @@ window.MENU_DATA = {
       "imageUrl": "",
       "image": "",
       "description": "Krem Peynirli Nutellalı Simit · Simit Arası Ürünler menüsünden.",
-      "amountEstimated": true,
-      "amount": "140–190 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt",
-        "Yumurta (tarife bağlı)",
-        "Fındık"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kaşarlı Sandviç",
@@ -859,15 +596,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937454.jpg",
       "image": "assets/kasarli-sandvic.jpg",
       "description": "Kaşarlı Sandviç · Sandviçler menüsünden.",
-      "amountEstimated": true,
-      "amount": "160–220 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Peynirli Sandviç",
@@ -878,15 +609,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937455.jpg",
       "image": "assets/peynirli-sandvic.jpg",
       "description": "Peynirli Sandviç · Sandviçler menüsünden.",
-      "amountEstimated": true,
-      "amount": "160–220 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tahinli Kurabiye",
@@ -897,16 +622,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937463.jpg",
       "image": "assets/tahinli-kurabiye.jpg",
       "description": "Tahinli Kurabiye · Kurabiyeler menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Paskalya",
@@ -917,15 +635,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937464.jpg",
       "image": "assets/paskalya.jpg",
       "description": "Paskalya · Kurabiyeler menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Selanik Gevreği",
@@ -936,15 +648,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937465.jpg",
       "image": "assets/selanik-gevregi.jpg",
       "description": "Selanik Gevreği · Kurabiyeler menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tuzlu Kurabiye (250 gr.)",
@@ -955,15 +661,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937466.jpg",
       "image": "assets/tuzlu-kurabiye-250-gr.jpg",
       "description": "Tuzlu Kurabiye (250 gr.) · Kurabiyeler menüsünden.",
-      "amountEstimated": false,
       "amount": "250 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Bursa Lokumu",
@@ -974,15 +674,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937467.jpg",
       "image": "assets/bursa-lokumu.jpg",
       "description": "Bursa Lokumu · Kurabiyeler menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Tatlı Kurabiye (250 gr.)",
@@ -993,15 +687,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937468.jpg",
       "image": "assets/tatli-kurabiye-250-gr.jpg",
       "description": "Tatlı Kurabiye (250 gr.) · Kurabiyeler menüsünden.",
-      "amountEstimated": false,
       "amount": "250 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Acı Badem Kurabiyesi",
@@ -1012,16 +700,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/4937469.jpg",
       "image": "assets/aci-badem-kurabiyesi.jpg",
       "description": "Acı Badem Kurabiyesi · Kurabiyeler menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)",
-        "Badem"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Susamlı Çubuk Kraker (200 gr.)",
@@ -1032,16 +713,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937471.jpg",
       "image": "assets/susamli-cubuk-kraker-200-gr.jpg",
       "description": "Susamlı Çubuk Kraker (200 gr.) · Kurabiyeler menüsünden.",
-      "amountEstimated": false,
       "amount": "200 g",
-      "allergens": [
-        "Buğday (gluten)",
-        "Susam",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Çatal",
@@ -1052,15 +726,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937470.jpg",
       "image": "assets/catal.jpg",
       "description": "Çatal · Kurabiyeler menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Kutu Kandil Simidi",
@@ -1071,15 +739,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74845402.jpg",
       "image": "assets/kutu-kandil-simidi.jpg",
       "description": "Kutu Kandil Simidi · Kurabiyeler menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Sütaş Kaşar Peyniri (20 gr.)",
@@ -1090,13 +752,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/72913267.jpg",
       "image": "assets/sutas-kasar-peyniri-20-gr.jpg",
       "description": "Sütaş Kaşar Peyniri (20 gr.) · Yan Ürünler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 g",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ekler (Küçük)",
@@ -1107,15 +765,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937473.jpg",
       "image": "assets/ekler-kucuk.jpg",
       "description": "Ekler (Küçük) · Tatlılar menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Üzümlü Kurabiye",
@@ -1126,15 +778,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/4937475.jpg",
       "image": "assets/uzumlu-kurabiye.jpg",
       "description": "Üzümlü Kurabiye · Tatlılar menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ekler (Büyük)",
@@ -1145,15 +791,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937477.jpg",
       "image": "assets/ekler-buyuk.jpg",
       "description": "Ekler (Büyük) · Tatlılar menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Meyveli Kurabiye",
@@ -1164,15 +804,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937479.jpg",
       "image": "assets/meyveli-kurabiye.jpg",
       "description": "Meyveli Kurabiye · Tatlılar menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Islak Kek",
@@ -1183,15 +817,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937478.jpg",
       "image": "assets/islak-kek.jpg",
       "description": "Islak Kek · Tatlılar menüsünden.",
-      "amountEstimated": true,
-      "amount": "80–120 g / porsiyon",
-      "allergens": [
-        "Buğday (gluten)",
-        "Süt (tarife bağlı)",
-        "Yumurta (tarife bağlı)"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Coca-Cola (33 cl.)",
@@ -1202,11 +830,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937484.jpg",
       "image": "assets/coca-cola-33-cl.jpg",
       "description": "Coca-Cola (33 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "33 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Coca-Cola Şekersiz (33 cl.)",
@@ -1217,11 +843,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937485.jpg",
       "image": "assets/coca-cola-sekersiz-33-cl.jpg",
       "description": "Coca-Cola Şekersiz (33 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "33 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Fanta (33 cl.)",
@@ -1232,11 +856,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937486.jpg",
       "image": "assets/fanta-33-cl.jpg",
       "description": "Fanta (33 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "33 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Sprite (33 cl.)",
@@ -1247,11 +869,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937487.jpg",
       "image": "assets/sprite-33-cl.jpg",
       "description": "Sprite (33 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "33 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Cappy Portakal (33 cl.)",
@@ -1262,11 +882,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856661.jpg",
       "image": "assets/cappy-portakal-33-cl.jpg",
       "description": "Cappy Portakal (33 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "33 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Cappy Vişne (33 cl.)",
@@ -1277,11 +895,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856663.jpg",
       "image": "assets/cappy-visne-33-cl.jpg",
       "description": "Cappy Vişne (33 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "33 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Cappy Kayısı (33 cl.)",
@@ -1292,11 +908,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856670.jpg",
       "image": "assets/cappy-kayisi-33-cl.jpg",
       "description": "Cappy Kayısı (33 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "33 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Fuse Tea Limon (33 cl.)",
@@ -1307,11 +921,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937488.jpg",
       "image": "assets/fuse-tea-limon-33-cl.jpg",
       "description": "Fuse Tea Limon (33 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "33 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Beyoğlu Gazozu (25 cl.)",
@@ -1322,11 +934,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/56741208.jpg",
       "image": "assets/beyoglu-gazozu-25-cl.jpg",
       "description": "Beyoğlu Gazozu (25 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "25 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Schweppes (20 cl.)",
@@ -1337,11 +947,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937489.jpg",
       "image": "assets/schweppes-20-cl.jpg",
       "description": "Schweppes (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Uludağ Limonata (25 cl.)",
@@ -1352,11 +960,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937490.jpg",
       "image": "assets/uludag-limonata-25-cl.jpg",
       "description": "Uludağ Limonata (25 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "25 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Zencefilli Beyoğlu Gazoz (20 cl.)",
@@ -1367,11 +973,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856666.jpg",
       "image": "assets/zencefilli-beyoglu-gazoz-20-cl.jpg",
       "description": "Zencefilli Beyoğlu Gazoz (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ayran (20 cl.)",
@@ -1382,13 +986,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937493.jpg",
       "image": "assets/ayran-20-cl.jpg",
       "description": "Ayran (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Meyveli Soda (20 cl.)",
@@ -1399,11 +999,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937491.jpg",
       "image": "assets/meyveli-soda-20-cl.jpg",
       "description": "Meyveli Soda (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Sade Süt (20 cl.)",
@@ -1414,13 +1012,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856660.jpg",
       "image": "assets/sade-sut-20-cl.jpg",
       "description": "Sade Süt (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Çikolatalı Süt (20 cl.)",
@@ -1431,13 +1025,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856665.jpg",
       "image": "assets/cikolatali-sut-20-cl.jpg",
       "description": "Çikolatalı Süt (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Çilekli Süt (20 cl.)",
@@ -1448,13 +1038,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856667.jpg",
       "image": "assets/cilekli-sut-20-cl.jpg",
       "description": "Çilekli Süt (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Muzlu Süt (20 cl.)",
@@ -1465,13 +1051,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856668.jpg",
       "image": "assets/muzlu-sut-20-cl.jpg",
       "description": "Muzlu Süt (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Capri-Sun (20 cl.) Safari",
@@ -1482,11 +1064,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/Products/74856669.jpg",
       "image": "assets/capri-sun-20-cl-safari.jpg",
       "description": "Capri-Sun (20 cl.) Safari · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Soda (20 cl.)",
@@ -1497,11 +1077,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937492.jpg",
       "image": "assets/soda-20-cl.jpg",
       "description": "Soda (20 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "20 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Erikli Su (50 cl.)",
@@ -1512,11 +1090,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937494.jpg",
       "image": "assets/erikli-su-50-cl.jpg",
       "description": "Erikli Su (50 cl.) · İçecekler menüsünden.",
-      "amountEstimated": false,
       "amount": "50 cl",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Sütaş Kahvaltılık Sos (20 gr.)",
@@ -1527,13 +1103,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/61162613.jpg",
       "image": "assets/sutas-kahvaltilik-sos-20-gr.jpg",
       "description": "Sütaş Kahvaltılık Sos (20 gr.) · Soslar menüsünden.",
-      "amountEstimated": false,
       "amount": "20 g",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Çilek Reçeli (20 gr.)",
@@ -1544,11 +1116,9 @@ window.MENU_DATA = {
       "imageUrl": "",
       "image": "",
       "description": "Çilek Reçeli (20 gr.) · Soslar menüsünden.",
-      "amountEstimated": false,
       "amount": "20 g",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Vişne Reçeli (20 gr.)",
@@ -1559,11 +1129,9 @@ window.MENU_DATA = {
       "imageUrl": "",
       "image": "",
       "description": "Vişne Reçeli (20 gr.) · Soslar menüsünden.",
-      "amountEstimated": false,
       "amount": "20 g",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Taze Sıkma Portakal Suyu",
@@ -1574,11 +1142,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937496.jpg",
       "image": "assets/taze-sikma-portakal-suyu.jpg",
       "description": "Taze Sıkma Portakal Suyu · Vitamin Bar menüsünden.",
-      "amountEstimated": true,
-      "amount": "250–300 ml",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Taze Sıkma Havuç Suyu",
@@ -1589,11 +1155,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937497.jpg",
       "image": "assets/taze-sikma-havuc-suyu.jpg",
       "description": "Taze Sıkma Havuç Suyu · Vitamin Bar menüsünden.",
-      "amountEstimated": true,
-      "amount": "250–300 ml",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Ballı Muzlu Süt",
@@ -1604,13 +1168,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937499.jpg",
       "image": "assets/balli-muzlu-sut.jpg",
       "description": "Ballı Muzlu Süt · Vitamin Bar menüsünden.",
-      "amountEstimated": true,
-      "amount": "250–300 ml",
-      "allergens": [
-        "Süt"
-      ],
-      "allergensVerified": false,
-      "allergenNote": "Ürün adı ve tipik tarif üzerinden tahmin edilmiştir. Liste eksiksiz değildir; çapraz bulaşma değerlendirilmemiştir. Alerjiniz varsa siparişten önce işletmeden doğrulayın."
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
+      "allergens": [],
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Taze Sıkma Karışık Meyve Suyu",
@@ -1621,11 +1181,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937500.jpg",
       "image": "assets/taze-sikma-karisik-meyve-suyu.jpg",
       "description": "Taze Sıkma Karışık Meyve Suyu · Vitamin Bar menüsünden.",
-      "amountEstimated": true,
-      "amount": "250–300 ml",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Taze Sıkma Elma Suyu",
@@ -1636,11 +1194,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937501.jpg",
       "image": "assets/taze-sikma-elma-suyu.jpg",
       "description": "Taze Sıkma Elma Suyu · Vitamin Bar menüsünden.",
-      "amountEstimated": true,
-      "amount": "250–300 ml",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Taze Sıkma Ananas Suyu",
@@ -1651,11 +1207,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937503.jpg",
       "image": "assets/taze-sikma-ananas-suyu.jpg",
       "description": "Taze Sıkma Ananas Suyu · Vitamin Bar menüsünden.",
-      "amountEstimated": true,
-      "amount": "250–300 ml",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Zencefilli Taze Sıkma Portakal Suyu",
@@ -1666,11 +1220,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937504.jpg",
       "image": "assets/zencefilli-taze-sikma-portakal-suyu.jpg",
       "description": "Zencefilli Taze Sıkma Portakal Suyu · Vitamin Bar menüsünden.",
-      "amountEstimated": true,
-      "amount": "250–300 ml",
+      "amount": "Gramaj ve porsiyon bilgisi için bizimle iletişime geçebilirsiniz.",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Ürüne özel alerjen bilgisi doğrulanmadı. Bu ifade alerjen bulunmadığı anlamına gelmez; etiketi veya işletme bilgisini kontrol edin."
+      "allergenNote": "İçerik ve alerjen bilgisi için siparişten önce işletmemizle iletişime geçebilirsiniz."
     },
     {
       "name": "Poşet",
@@ -1681,11 +1233,9 @@ window.MENU_DATA = {
       "imageUrl": "https://yemeksepeti.dhmedia.io/image/fd-tr/products/4937505.jpg",
       "image": "assets/poset.jpg",
       "description": "Poşet · Poşet menüsünden.",
-      "amountEstimated": false,
       "amount": "1 adet",
       "allergens": [],
-      "allergensVerified": false,
-      "allergenNote": "Gıda ürünü değildir."
+      "allergenNote": "Gıda dışı ürün."
     }
   ]
 };

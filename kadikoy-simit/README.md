@@ -1,22 +1,18 @@
 # Kadıköy Simit
 
-Build gerektirmeyen HTML, CSS ve JavaScript menü sitesi.
+Build gerektirmeyen HTML, CSS ve JavaScript sitesi.
 
-- `index.html`: sayfa iskeleti
-- `style.css`: duyarlı görünüm
-- `app.js`: ürün detayları, kategori filtreleri, arama ve paylaşım
-- `products.js`: 95 ürünün adı, fiyatı ve kategori bilgisi
-- `assets/`: kaynak menüden ürün fotoğrafları
+- `index.html`: fotoğraflı ana sayfa
+- `lezzetlerimiz/index.html`: 95 ürün, kategori filtreleri ve arama
+- `urun/<urun-kimligi>/index.html`: 95 bağımsız ürün detay sayfası
+- `iletisim/index.html`: adres, harita ve yol tarifi
+- `style.css` / `app.js`: ortak görünüm ve etkileşimler
+- `products.js`: menü verisinin kayıtlı kopyası
+- `assets/`: 90 ürün fotoğrafı
 
-Yerelde çalıştırmak için: `python3 -m http.server 8080`.
+Gramajlar yalnızca kaynak menüde belirtilen miktarları içerir. Diğer miktarlar ve doğrulanmamış alerjenler yerine işletmeyle iletişim bilgisi gösterilir. Siparişler Yemeksepeti'ne yönlendirilir.
 
-Her ürüne `#urun/urun-kimligi` adresiyle doğrudan gidilebilir. Sipariş düğmeleri restoranın Yemeksepeti sayfasını açar. Bu statik sitede sipariş veya ödeme alınmaz.
+Menü ve adres kaynağı: https://www.yemeksepeti.com/restaurant/lj50/kadikoy-simit
+Aktarım tarihi: 12 Kasım 2026. Menü fiyatları otomatik güncellenmez.
 
-Menü/fotoğraf kaynağı: https://www.yemeksepeti.com/restaurant/lj50/kadikoy-simit
-Aktarım tarihi: 12 Kasım 2026. Fiyatlar otomatik güncellenmez.
-
-## Gramaj ve alerjen alanları
-
-Ürün adında belirtilen paket miktarları menüden alınmıştır. Diğer gramaj ve porsiyonlar kullanıcı talebiyle tahmini aralık olarak eklenmiştir ve “Tahmini” rozeti taşır. Alerjenler ürün adına ve tipik tarife dayalı ön değerlendirmedir; işletme tarafından doğrulanmamıştır. Eksiksiz içerik veya çapraz bulaşma garantisi vermez. Doğrulanmış bilgiler geldiğinde `amount`, `amountEstimated`, `allergens`, `allergensVerified` ve `allergenNote` alanları güncellenmelidir.
-
-Alerjen sınıflandırması için genel başvuru: https://www.food.gov.uk/business-guidance/allergen-guidance-for-food-businesses (bu kaynak restoranın tariflerini doğrulamaz).
+Yerelde: `python3 -m http.server 8080`.
